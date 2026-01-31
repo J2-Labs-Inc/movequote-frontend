@@ -1,0 +1,8 @@
+{
+  "name": "movequote-frontend",
+  "version": "1.0.0",
+  "description": "MoveQuote - Professional Moving Estimates",
+  "scripts": {
+    "start": "npx serve public -p 3000"
+  }
+}
